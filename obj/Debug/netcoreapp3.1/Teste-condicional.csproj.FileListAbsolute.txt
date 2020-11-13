@@ -1,0 +1,13 @@
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\teste if\Teste-condicional\bin\Debug\netcoreapp3.1\Teste-condicional.exe
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\teste if\Teste-condicional\bin\Debug\netcoreapp3.1\Teste-condicional.deps.json
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\teste if\Teste-condicional\bin\Debug\netcoreapp3.1\Teste-condicional.runtimeconfig.json
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\teste if\Teste-condicional\bin\Debug\netcoreapp3.1\Teste-condicional.runtimeconfig.dev.json
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\teste if\Teste-condicional\bin\Debug\netcoreapp3.1\Teste-condicional.dll
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\teste if\Teste-condicional\bin\Debug\netcoreapp3.1\Teste-condicional.pdb
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\teste if\Teste-condicional\obj\Debug\netcoreapp3.1\Teste-condicional.csprojAssemblyReference.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\teste if\Teste-condicional\obj\Debug\netcoreapp3.1\Teste-condicional.AssemblyInfoInputs.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\teste if\Teste-condicional\obj\Debug\netcoreapp3.1\Teste-condicional.AssemblyInfo.cs
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\teste if\Teste-condicional\obj\Debug\netcoreapp3.1\Teste-condicional.csproj.CoreCompileInputs.cache
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\teste if\Teste-condicional\obj\Debug\netcoreapp3.1\Teste-condicional.dll
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\teste if\Teste-condicional\obj\Debug\netcoreapp3.1\Teste-condicional.pdb
+C:\Users\prado\OneDrive\Área de Trabalho\LOGICA PROGRAMACAO\teste if\Teste-condicional\obj\Debug\netcoreapp3.1\Teste-condicional.genruntimeconfig.cache
